@@ -1,3 +1,5 @@
+# Random Trancsactions with akka Framework
+
 Anforderungen sind, dass Sie einen Algorithmus für eins der drei
 Probleme (leader election, distributed commit, snapshot) implementieren.
 Sie sollten sich aus dem Git repository ein FUCoin-System
