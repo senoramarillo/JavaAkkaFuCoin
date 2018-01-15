@@ -1,4 +1,4 @@
-# Random Transactions with akka Framework
+# Random Transactions (cryptocurrency) with akka Framework
 
 required: akka library
 
