@@ -11,3 +11,5 @@ Experimente (evtl) vorstellen und dann einen kleinen Text verfassen (bis
 Mitte August). Dieser Text sollte auf keinen Fall länger sein als 10
 Seiten und vielleicht nicht kürzer als 5 Seiten. Es kann alles in einer
 Gruppe von bis zu 4 Personen erledigt werden.
+
+UPDATE: few improvements in progress
